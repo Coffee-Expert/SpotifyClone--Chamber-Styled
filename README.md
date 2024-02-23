@@ -10,7 +10,8 @@ This project is a clone of the Spotify Web Player, designed with a sleek gold an
 
 ## Preview
 
-[Spotify Clone Preview](preview.png)
+![Spotify Clone Preview](https://github.com/Coffee-Expert/SpotifyClone--Chamber-Styled/blob/main/assets/Control-V%20(14).png)
+![Preview-2](https://github.com/Coffee-Expert/SpotifyClone--Chamber-Styled/blob/main/assets/Control-V%20(16).png)
 
 ## Features
 

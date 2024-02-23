@@ -2,7 +2,7 @@
 
 # Spotify Web Player Clone - Gold and Black Theme
 
-![Visit my Spotify Clone](https://coffee-expert.github.io/SpotifyClone--Chamber-Styled/)
+[Visit my Spotify Clone](https://coffee-expert.github.io/SpotifyClone--Chamber-Styled/)
 
 ## Description
 
@@ -10,7 +10,7 @@ This project is a clone of the Spotify Web Player, designed with a sleek gold an
 
 ## Preview
 
-![Spotify Clone Preview](preview.png)
+[Spotify Clone Preview](preview.png)
 
 ## Features
 
